@@ -1,19 +1,28 @@
 [
   {
-    "n": 5,
-    "k": 3,
-    "shares": [
-      { "base": 1, "value": 4 },
-      { "base": 2, "value": 7 },
-      { "base": 3, "value": 13 }
+    "keys": {
+      "n": 5,
+      "k": 3
+    },
+    "data": [
+      { "base": 1, "value": 15 },
+      { "base": 2, "value": 37 },
+      { "base": 3, "value": 34 },
+      { "base": 4, "value": 16 },
+      { "base": 5, "value": 2 }
     ]
   },
   {
-    "n": 6,
-    "k": 2,
-    "shares": [
-      { "base": 2, "value": 100 },
-      { "base": 3, "value": 21 }
+    "keys": {
+      "n": 5,
+      "k": 3
+    },
+    "data": [
+      { "base": 1, "value": 18 },
+      { "base": 2, "value": 35 },
+      { "base": 3, "value": 16 },
+      { "base": 4, "value": 32 },
+      { "base": 5, "value": 13 }
     ]
   }
 ]
