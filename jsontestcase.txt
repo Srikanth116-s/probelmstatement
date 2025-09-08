@@ -1,0 +1,19 @@
+[
+  {
+    "n": 5,
+    "k": 3,
+    "shares": [
+      { "base": 1, "value": 4 },
+      { "base": 2, "value": 7 },
+      { "base": 3, "value": 13 }
+    ]
+  },
+  {
+    "n": 6,
+    "k": 2,
+    "shares": [
+      { "base": 2, "value": 100 },
+      { "base": 3, "value": 21 }
+    ]
+  }
+]
